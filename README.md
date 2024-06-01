@@ -1,4 +1,4 @@
-# 贴吧签到Github Action版 update：2024-02-02
+# 贴吧签到Github Action版 update：2024-06-01
 
 ## 今日签到状态
 
